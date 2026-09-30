@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://layaa.com.au/sitemap.xml
