@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://layaa.com.au/sitemap.xml
+Sitemap: https://layaa.io/sitemap.xml
